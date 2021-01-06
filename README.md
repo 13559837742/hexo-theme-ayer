@@ -442,3 +442,5 @@ The basic idea is, whenever using a project using SATA license, people shall sta
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/Shen-Yu/hexo-theme-ayer.svg)](https://starchart.cc/Shen-Yu/hexo-theme-ayer)
+
+1
